@@ -1,0 +1,4 @@
+Initial - this happens only once, or is an event that precedes all others in a process. eg implantation of technology under the skin, purchase of a pice of equipment.
+Continual - this happens constantly by its nature. eg an ear hears always, it does not turn off.
+Conditional - this happens only if some prior state occurs. eg the door opens after you insert the key.
+Habitual - this happens frequently, only when an agent has elected to take action. eg smartphone notifications, checking a watch, using a button for data entry.

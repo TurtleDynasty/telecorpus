@@ -1,0 +1,4 @@
+Agent - initiator of a message. eg self, body part, computer, other people.
+Message - information transmitted by an agent to another agent.
+  Message Medium - the means by which a message is transmitted. eg sound, invisible EM signal, digital electric signal, physical force.
+  Message Payload - the class of information being transmitted. eg money, language, generic data, no data/single bit of data.
