@@ -1,0 +1,23 @@
+Grammar - Tenses.
+
+Telecorpus has four tenses. 
+
+Initial - this happens only once, or is an event that precedes all others in a process. eg implantation of technology under the skin, purchase of a pice of equipment. 
+Continual - this happens constantly by its nature. eg an ear hears always, it does not turn off. 
+Conditional - this happens only if some prior state occurs. eg the door opens after you insert the key. 
+Habitual - this happens frequently, only when an agent has elected to take action. eg smartphone notifications, checking a watch, using a button for data entry. 
+
+How these are conjugated and notated has not yet been defined. 
+
+====================
+
+Grammar - Parts of Speech. 
+
+Agent - initiator of a message. eg self, body part, computer, other people. 
+Message - information transmitted by an agent to another agent. 
+  Message Medium - the means by which a message is transmitted. eg sound, digital electric signal, physical force. 
+  Message Payload - the class of information being transmitted. eg money, language, generic data, no data/single bit of data. 
+
+This feature of the language is intended to be notated in Telecorpus' primary writing system as a Message Sequence Diagram. 
+
+====================
