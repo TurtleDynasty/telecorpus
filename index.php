@@ -11,11 +11,12 @@
 	<h1>Telecorpus Conlang</h1>
 	<pre>
 	<?php
-		echo file_get_contents( "introduction.txt" );
-		echo file_get_contents( "inventory.txt" );
-		echo file_get_contents( "grammar.txt" );
-		echo file_get_contents( "orthography.txt" );
-		echo file_get_contents( "romanization.txt" );
+		echo file_get_contents("introduction.txt");
+		echo file_get_contents("inventory.txt");
+		echo file_get_contents("grammar.txt");
+		echo file_get_contents("vocabulary.txt");
+		echo file_get_contents("orthography.txt");
+		echo file_get_contents("romanization.txt");
 	?>
 	</pre>
 </body>

@@ -2,12 +2,19 @@
 Introduction. 
 
 Telecorpus is a constructed language to describe body modification, cybernetic implants, medical devices, and accessibility technology. 
-It is more regular than natural languages (citation needed) and uses a specific grammar and vocabulary to describe just the things it needs to. 
-Telecorpus is not general-purpose and not an international auxiliary language, though some considerations have been made to facilitate easier learning by people from different backgrounds. 
+It is more regular than natural languages (citation needed). Its grammar is tailored for modeling information flow as a Message Sequence Diagram, and uses such a diagraming technique in its othography. Its vocabulary is highly classifying, but not highly specific.
+
+Although some considerations have been made to facilitate easier learning by people from different backgrounds, it is not suitable for a general-purpose international language.
 
 All aspects of this language are still under construction. You might come back and find things have changed. Sorry. 
 
-This language is under development by David Miller aka TurtleDynasty. If you have questions or comments, please tweet @TurtleDynasty. 
+This language is under development by David Miller aka TurtleDynasty. 
+If you have short questions or comments, please tweet: 
+  @TurtleDynasty. 
+To submit a correction or short suggestion, please join on GitHub:
+  https://github.com/TurtleDynasty/telecorpus/
+To submit a long suggestion, analysis, or criticism, please send an email:
+  TurtleDynasty (at) gmail (dotcom).
 
 ====================
 

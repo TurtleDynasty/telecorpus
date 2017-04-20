@@ -1,0 +1,86 @@
+Vocabulary 
+
+Telecorpus word         English meaning         English examples
+----------------        ----------------        ----------------
+
+-- Entity Agent (having apparent agency) ------------------------
+
+                        Person                  Alice, Bob, David
+                        Signal sender           Finger, LED
+                        Signal receiver         Ear, light sensor, skin
+                        Signal sender-receiver  NFC chip, NCF reader
+                        Circuit                 Arduino, any small circuit
+                        Computer                Any large system of circuits
+                        External reality        Natural phenomenon of light, sound, etc.
+                        Plant (domestic)        Any plant, fungus, alga used domestically
+                        Plant (wild)            Any plant, fungus, alga growing of its own accord,
+                                                  without significant intervention from humans 
+                        Animal (domestic)       Any animal used domestically. Dog, cow, chicken 
+                        Animal (wild)           Any animal licing of its own accord, without
+                                                  significant intervention from humans 
+
+-- Material Agent (lacking apparent agency) ---------------------
+--   Note: When described as "necessarily" so, materials must require that it be of that character. 
+--         So eyeglasses are glass because they must be clear. A beer bottle is not glass because 
+--         transparency is not required. ------------------------
+
+                        Flesh                   Biological flesh 
+                        Plastic                 Anything artificial, not flesh 
+                        Glass                   Anything necessarily clear, as in for optics, 
+                                                  cornea, eye glasses, a clear glass window 
+                        Mirror                  Anything necessarily reflective, as in for optics 
+                        Metal                   Anything necessarily electrically or thermally 
+                                                  conductive, or ferromagnetic 
+                        Magnet                  Anything necessarily magnetic 
+                        Cloth                   Anything woven, knit, felted 
+                        Paint                   Paint, ink, dye, makeup 
+
+-- Means (prepositions) -----------------------------------------
+
+                        Thought 
+                        Language 
+                        Digital signal 
+                        Invisible EM field       
+                        Invisible EM wave 
+                        Visible EM wave 
+                        Audible vibration 
+                        Inaudible vibration 
+                        Fine motor 
+                        Gross motor 
+
+-- Class (message payload, direct object of a ditransitive verb) 
+                        Desire/intention
+                        Date
+                        Time
+                        Date-Time
+                        Diretion-Orientation
+                        
+                        
+-- Physical Depth (postpositions) --------------------------------
+
+                        External                Touching the skin or resting on the body surface
+                        Dermal					Interfacing the surface of the skin
+                        Intradermal             Reaching into the skin
+                        Subdermal               Resting beneath the skin
+                        Internal                Reaching beneath skin and into the flesh
+
+-- Anatomical Depth (postpositions) -----------------------------
+
+                        Muscular                Reaching gross muscle, ligament, tendon
+                        Osteal					Reaching bone or tooth
+                        Digestive               Reaching the stomach, pancreas, intestines, anus
+                        Urinary                 Reaching the kidney, bladder, urethra
+                        Gladneal                Reaching the various glands of the body, 
+                                                  mamary glands, ovaries, testes
+                        Sexual/Reproductive     Penis, scrotum, prostate, uterus, vagina
+                        Cardiovascular          Reaching the heart, blood vessels
+                        Respiratory             Reaching the lungs, bronchi, trachea
+                        Peripheral              Interfacing to peripheral nerves 
+                        Neural                  Interfacing to spinal nerves, brainstem, or brain 
+
+-- Abstract Depth (postpositions) -------------------------------
+
+                        Conceptual/Linguistic   Reaching thoughts, ideas, beliefs
+
+====================
+

@@ -1,28 +1,40 @@
 Romanized Writing System. 
 
-Alphabet:
-There's nothing here yet. Sorry.
+Alphabet
+  This is probably going to be a western alphabet. This isn't defined yet. Sorry.
 
-Punctuation:
-Note: X indicates a placeholder for a word or phrase. (name) indicates a character by its name, rather than its literal. This is because whitespace is hard for humans to read correctly. 
-Symbol 		Use 
-TX 		X is an agent. 
-TXN 		X is an agent indexed at N where N is an indexing number. Note: I haven't decided if indexes should always be the smallest available number, or if assigning an index can be permanent - ie an identification number.
--X-> 		X is a message.  
-^X 		X is a reflexive message.  
-[X] 		X is a conditional clause.  
-,(space) 	delineates members of a conditional clause.  
-.(space) 	terminates a run (as much information as can be written linearly). 
-(newline) 	terminates a sequence. 
+Punctuation
+  Note: X indicates a placeholder for a word or phrase. 
+  (name) indicates a character by its name, rather than its literal. 
+  This is because whitespace is hard for humans to read correctly. 
+
+Symbol 		    Use 
+------------    ----------------
+TX 		        X is an agent. 
+TXN 		    X is an agent indexed at N where N is an indexing number. 
+                  Note: I haven't decided if indexes should always be smallest available number, 
+                        or if assigning an index can be permanent - ie an identification number.
+-X-> 		    X is a message.  
+^X 		        X is a reflexive message.  
+[X] 		    X is a conditional clause.  
+,(space) 	    delineates members of a conditional clause.  
+.(space) 	    terminates a run (as much information as can be written linearly). 
+(newline) 	    terminates a sequence. 
 (blankline) 	terminates a diagram.
-(longline) 	terminates a list of diagrams. ie "I'm done speaking about this subject now. It's time to change the subject or let somebody else speak." Use whatever symbol(s) works for your typeface and editor. If you're writing by hand, you might draw a horizontal line across the page. If you are typing in MS Notepad, you might use several "=" characters. 
+(longline) 	    terminates a list of diagrams. 
+                  ie  "I'm done speaking about this subject now. 
+                      It's time to change the subject or let somebody else speak." 
+                      Use whatever symbol(s) works for your typeface and editor. 
+                      If you're writing by hand, you might draw a horizontal line across the page. 
+                      If you are typing in MS Notepad, you might use several "=" characters. 
 
-If 'korp' means person and 'mone' means money, then
-  Tkorp1-mone->Tkorp2. 
-means "Person one gives money to person two."
-And if 'mant' means food, then 
-  Tkorp1-mone->Tkorp2-mant->Tkorp1^mant. 
-means "Person one buys food from person two and eats the food."
+Examples
+  If 'korp' means person and 'mone' means money, then
+    Tkorp1-mone->Tkorp2. 
+  means "Person one gives money to person two."
+  And if 'mant' means food, then 
+    Tkorp1-mone->Tkorp2-mant->Tkorp1^mant. 
+  means "Person one buys food from person two and eats the food."
 
 ====================
 

@@ -1,6 +1,7 @@
-Primary Writing System. 
+Orthography.  
 
-This is not defined yet. Sorry. I think it is going to look like Message Sequence Diagrams and use an alphabet. 
+This is not defined yet. Sorry. I think it is going to look like Message Sequence Diagrams 
+  and use a western alphabet. 
 
 ====================
 
