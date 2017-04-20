@@ -1,0 +1,13 @@
+Customs. 
+
+Names
+  
+
+Greeting 
+  When meeting for the first time, or entering conversation, speakers should introduce themselves. 
+  Use the Initial tense to state your global index (Only if I decide this language should include
+  global indexing/identification) and given/common name. 
+  Optionally, state other names such as middle names, family names, past names, or usernames. 
+  Other speakers then should agree on a local index for your Agent. This might be a number, 
+  or any combination of your stated names.
+    eg  (This is not define yet. Sorry.)
