@@ -1,0 +1,133 @@
+<h2> Grammar </h2>
+<h3> Tenses </h3>
+<p> Telecorpus has five (or maybe four) tenses. </p>
+
+<h4> Initial </h4>
+<p> This happens only once, or is an event that precedes all others in a process. 
+</p>
+<p style="text-indent: 2em;"> eg  implantation of technology under the skin, purchase of a pice of equipment,
+        creation of a tattoo. 
+      </p>
+
+<h4> Continual </h4>
+<p> This happens constantly by its nature. 
+</p>
+<p style="text-indent: 2em;"> eg  An ear is always hearing; it does not turn off. 
+</p>
+
+<h4> Conditional </h4>
+<p> This happens only if some prior state occurs, as in an automatic response to a specific stimulus. 
+</p>
+<p style="text-indent: 2em;"> eg  The door opens only after you insert the key. 
+</p>
+<p style="text-indent: 2em;"> Note to self: Should I include logical operators to facilitate this? 
+                  If so, should I eleminate this tense?
+</p>
+
+<h4> Habitual </h4>
+<p> This happens frequently, only when an agent has elected to take action. 
+</p>
+<p style="text-indent: 2em;"> eg  Smartphone notifications, using a button for data entry, checking a watch. 
+</p>
+
+<h4> Hypothetical </h4>
+<p> This happens hypothetically, as in asking a question, or making an assertion about the future.
+</p>
+<p style="text-indent: 2em;"> eg  Does it work this way? Will it work this way? I wonder if it will work this way...? 
+</p>
+
+<p> Note: How these are conjugated and marked is a work in progress. 
+      The phonetic and orthographic rules are a work in progress. 
+</p>
+
+
+<h3> "Sentences" </h3>
+
+<p> One should avoid using terms like "sentence" when describing telecorpus. As its primary 
+writing system is a Messge Sequence Diagram, the use of the Conditional tense (or maybe 
+logical operators?) may prouduce a branching structure that cannot be easily described 
+in a single "sentence." Therefore, we use some other labels for utterances to differentiate 
+between an utterance that is ending for now, leaving the full "sentence" partially conplete, 
+and a series of utterances that collectively make up a full "sentence."
+</p>
+
+<h4> Run </h4>
+<p> A linear expression, a streak of utterance. </p>
+  <p style="text-indent: 2em;"> eg  Alice gives a key to Bob. </p>
+
+<h4> Sequence </h4>
+<p> One or more Runs, which together start at one or more definite points 
+  and end at one or more others, with no further utterances needed to complete this "sentence."
+</p>
+  <p style="text-indent: 2em;"> eg  Alice gives a key to Bob, who gives the key to David, who uses the key to unlock the door.
+  </p>
+
+<h4> Diagram </h4>
+<p> One or more Sequences which describe a process with a conceptual label, such as a biological 
+  system, series of events in a setting, or set of transactions related to one system of events. 
+</p>
+  <p style="text-indent: 2em;"> eg  Let us explain how keys are used to open things.
+        Alice gives a key to Bob, who gives the key to David, who uses the key to unlock the door.
+        Xavier gives a key to Yolanda, who gives it to Zack, who uses it to unlock the box.
+        Now we are done explaining how keys are used to open things. 
+  </p>
+
+<h4> Set </h4>
+<p> One or more Diagrams desribing a high-level entity or subject, a collective.
+<p style="text-indent: 2em;"> eg  Let us explain how keys are used to open things.
+        Alice gives a key to Bob, who gives the key to David, who uses the key to unlock the door.
+        Xavier gives a key to Yolanda, who gives it to Zack, who uses it to unlock the box.
+        Now we are done explaining how keys are used to open things. 
+        Let us explain how dogs are fed.
+        David gives the food to the bowl. David gives the bowl to the dog. 
+        The dog takes the food from the bowl. The dog digests the food.
+        Now we are done explaining how dogs are fed. 
+        Now we are done explaining what things David does (opening doors and feeding dogs).
+        Now it is your turn to speak.
+      </p>
+
+<p> This grammar feels clunky and awkward when you use it with English words. 
+The need for this system will become clear once you are familiar with telecorpus' primary writing
+system, which is currently in development. This regularularity is an ecumberance to speech, but 
+a significant advantage to formalizing models of information flow with clarity and precision.
+I don't think any natural languages do this. I'm a Computer Scientist. Sorry.
+</p>
+
+<h3> Parts of Speech </h3>
+
+<h4> Agent </h4> 
+<p> The initiator, processor, or reciever of a message. 
+</p>
+<p> In formal linguistic terms, telecorpus Agents are "agent" and "patient." 
+</p>
+  <p style="text-indent: 2em;"> eg  self, a body part, a computer, other people. 
+  </p>
+
+<h4> Message </h4>
+<p> The information transmitted by an agent to another agent. 
+</p>
+<p> In telecorpus, there are no verbs. Or rather there is only one verb, "send message." 
+  How the message is sent, what it contains, and where it goes is described in three parts. 
+</p>
+
+    <h5> Means </h5>
+      <p> The means by which a message is transmitted. </p>
+        <p style="text-indent: 2em;"> eg  by language, by visible light, by touch, by physical action. 
+        </p>
+ 
+    <h5> Class </h5>
+      <p> The type of information being carried. 
+      </p>
+      <p> In formal linguistic terms, telecorpus Classes are "direct objects of a ditransitive verb." 
+      </p>
+        <p style="text-indent: 2em;"> eg  money, language, color, food, drug. 
+        </p> 
+
+    <h5> Depth </h5>
+      <p> The conceptual depth into which the message is meant to be delivered. As in, a location. 
+      </p>
+      <p> This location is different from a "patient" Agent. It is more like the location of the Agent. 
+      When the Initial tense is used to explicitly state the location of an Agent in advance, 
+      Depth can be dropped from a Sequence in the other tenses. 
+      </p>
+
